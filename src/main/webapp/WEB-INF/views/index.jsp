@@ -2,6 +2,6 @@
 <head>
 </head>
 <body>
-	<p>Welcome!</p>
+	<p>Welcome to CI!</p>
 </body>
 </html>
