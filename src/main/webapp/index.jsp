@@ -2,6 +2,6 @@
 <head>
 </head>
 <body>
-	<p>Welcome to CI/CD! with tomcat and Jenkin with auto deploy</p>
+	<p>Changing this file to test CI/CD! with jenkins and tomcat</p>
 </body>
 </html>
